@@ -5,7 +5,7 @@
 
 	public class BancoDeDados {
 
-		//Parâmetros de acesso ao banco de dados
+		//Parâmetros de acesso ao banco de dados - x
 		private Connection connection = null;
 		private Statement statement = null;
 		private ResultSet resultset = null;

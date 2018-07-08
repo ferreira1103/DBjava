@@ -1,6 +1,6 @@
 public class Agenda {
 
-	//Agenda de noticias
+	//Agenda de noticias - x
 	
 	public static void main(String[] args) {
 		BancoDeDados bancoDeDados = new BancoDeDados();
